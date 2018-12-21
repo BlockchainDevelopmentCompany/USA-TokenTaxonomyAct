@@ -39,5 +39,5 @@ a) DEFINITION OF DIGITAL TOKEN.—Section 2(a) of the Securities Act of 1933 (15
 ```
  (b) DEFINITION OF SECURITY.—Section 2(a)(1) of the Securities Act of 1933 (15 U.S.C. 77b(a)(1)) is amended—
  
-      ###(1)	by inserting ‘‘(A)’’ after ‘‘(1)’’; and
-      ###(2)	by adding at the end the following:
+      * (1)	by inserting ‘‘(A)’’ after ‘‘(1)’’; and
+      * (2)	by adding at the end the following:
