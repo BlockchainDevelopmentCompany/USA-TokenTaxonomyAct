@@ -37,4 +37,7 @@ a) DEFINITION OF DIGITAL TOKEN.—Section 2(a) of the Securities Act of 1933 (15
       
 ‘‘(21) DIGITAL UNIT.—The term ‘digital unit’ means a representation of economic, proprietary, or access rights that is stored in a computer-readable format.’’.
 ```
- (b) DEFINITION OF SECURITY.—Section 2(a)(1) of
+ (b) DEFINITION OF SECURITY.—Section 2(a)(1) of the Securities Act of 1933 (15 U.S.C. 77b(a)(1)) is amended—
+ 
+      ###(1)	by inserting ‘‘(A)’’ after ‘‘(1)’’; and
+      ###(2)	by adding at the end the following:
