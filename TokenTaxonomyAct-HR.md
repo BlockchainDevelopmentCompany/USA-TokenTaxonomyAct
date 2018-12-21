@@ -7,23 +7,34 @@ To amend the Securities Act of 1933 and the Securities Exchange Act of 1934 to e
 
 Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled, 
 
-SECTION 1. SHORT TITLE.
+## SECTION 1. SHORT TITLE.
 
 This Act may be cited as the ‘‘Token Taxonomy Act’’.
 
-SEC. 2. SECURITIES ACT OF 1933.
+## SEC. 2. SECURITIES ACT OF 1933.
 
 a) DEFINITION OF DIGITAL TOKEN.—Section 2(a) of the Securities Act of 1933 (15 U.S.C. 77b(a)) is amended by adding at the end the following: 
 
-  ‘‘(20) DIGITAL TOKEN.—The term ‘digital token’ means a digital unit that—
-    ‘‘(A) is created—
-      ‘‘(i) in response to the verification or collection of proposed transactions; 
-      ‘‘(ii) pursuant to rules for the digital unit’s creation and supply that cannot be altered by a single person or group of per-sons    under common control; or 
-      ‘‘(iii) as an initial allocation of digital units that will otherwise be created in ac-cordance with clause (i) or (ii); 
-    ‘‘(B) has a transaction history that—
-      ‘‘(i) is recorded in a distributed, dig-ital ledger or digital data structure in which consensus is achieved through a mathematically verifiable process; and 
-      ‘‘(ii) after consensus is reached, can-not be materially altered by a single person or group of persons under common control; 
-    ‘‘(C) is capable of being traded or transferred between persons without an intermediate custodian; and 
-    ‘‘(D) is not a representation of a financial interest in a company, including an ownership or debt interest or revenue share. 
-  ‘‘(21) DIGITAL UNIT.—The term ‘digital unit’ means a representation of economic, proprietary, or access rights that is stored in a computer-readable format.’’. 
+```
+‘‘(20) DIGITAL TOKEN.—The term ‘digital token’ means a digital unit that—
+      ‘‘(A) is created—
+      
+          ‘‘(i) in response to the verification or collection of proposed transactions; 
+          
+          ‘‘(ii) pursuant to rules for the digital unit’s creation and supply that cannot be altered by a single person or group of per-sons under common control; or 
+          
+          ‘‘(iii) as an initial allocation of digital units that will otherwise be created in ac-cordance with clause (i) or (ii); 
+          
+      ‘‘(B) has a transaction history that—
+      
+          ‘‘(i) is recorded in a distributed, dig-ital ledger or digital data structure in which consensus is achieved through a mathematically verifiable process; and 
+          
+         ‘‘(ii) after consensus is reached, can-not be materially altered by a single person or group of persons under common control; 
+         
+      ‘‘(C) is capable of being traded or transferred between persons without an intermediate custodian; and 
+      
+      ‘‘(D) is not a representation of a financial interest in a company, including an ownership or debt interest or revenue share. 
+      
+‘‘(21) DIGITAL UNIT.—The term ‘digital unit’ means a representation of economic, proprietary, or access rights that is stored in a computer-readable format.’’.
+```
  (b) DEFINITION OF SECURITY.—Section 2(a)(1) of
