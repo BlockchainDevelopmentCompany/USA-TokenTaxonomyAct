@@ -39,7 +39,7 @@ a) DEFINITION OF DIGITAL TOKEN.—Section 2(a) of the Securities Act of 1933 (15
 ```
  (b) DEFINITION OF SECURITY.—Section 2(a)(1) of the Securities Act of 1933 (15 U.S.C. 77b(a)(1)) is amended—
  
- (1)	by inserting ‘‘(A)’’ after ‘‘(1)’’; and
+ (1)	by inserting `‘‘(A)’’` after `‘‘(1)’’`; and
  
  (2)	by adding at the end the following:
  
@@ -87,3 +87,17 @@ a) DEFINITION OF DIGITAL TOKEN.—Section 2(a) of the Securities Act of 1933 (15
 (2) by redesignating the second paragraph `(80)` `(relating to ‘‘Funding portal’’)` as paragraph `(81)`. 
 
 ## SEC. 4. INVESTMENT ADVISERS ACT OF 1940. 
+
+Section 202(a)(2)(C) of the Investment Advisers Act of 1940 (15 U.S.C. 80b-2(a)(2)(C)) is amended by striking `‘‘receiving deposits or exercising fiduciary powers’’` and `inserting ‘‘receiving deposits, providing custodial services, or exercising fiduciary powers’’`. 
+
+## SEC. 5. INVESTMENT COMPANY ACT OF 1940. 
+
+Section 2(a)(5) of the Investment Company Act of 1940 (15 U.S.C. 80a-2(a)(5)) is amended by striking `‘‘receiving deposits or exercising fiduciary powers’’` and inserting `‘‘receiving deposits, providing custodial services, or exercising fiduciary powers’’`.
+
+## SEC. 6. SATISFACTORY CONTROL LOCATION REQUIREMENT.
+
+Not later than 90 days after the date of the enactment of this Act, the Commission shall amend section 240.15c3–3 of title 17, Code of Federal Regulations, to provide that the requirement for a satisfactory control location is fulfilled by protecting a digital unit (as defined under section 2(a) of the Securities Act of 1933) through public key cryptography and following commercially reasonable cybersecurity practices. 
+
+## SEC. 7. INDIVIDUAL RETIREMENT ACCOUNT INVESTMENTS IN CERTAIN VIRTUAL CURRENCIES NOT TREATED AS DISTRIBUTIONS. 
+
+
