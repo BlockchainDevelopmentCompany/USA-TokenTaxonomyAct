@@ -3,4 +3,15 @@ Here hosts the Token Taxonomy Act in Markdown form to collaborate on modifying U
 
 The Token Taxonomy Act was introduced by D-Darren Soto and R-Warren Davidson to the 115th US Congress as HR 7356. It was introduced at the end of the Congressional session and will need to be reintroduced to the 116th or future Congress.
 
+The Markdown format in conjunction with the Git protocol will allow for an enhanced form of collaboration on this bill, especially amongst the people it affects in this case.
+
+## How to contribute
+
+Use the Issues tab for general discussion.
+
+Interested parties and organizations should fork the repository and submit pull requests. Instructions on Git protocol best practices are outside the scope of this rubric, but feel free to submit a pull request to update this README as well.
+
+## Goal
+
+With this tool we should be able to clearly see changes, discuss those changes in a public forum, easily follow changes amongst different subcommitties, organizations and chambers of Congress, and even see what the modified versions of existing laws will look like.
 
