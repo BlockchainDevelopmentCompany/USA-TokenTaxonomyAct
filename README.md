@@ -7,7 +7,7 @@ The Markdown format in conjunction with the Git protocol will allow for an enhan
 
 ## How to contribute
 
-TokenTaxonomyAct-HR.md is the file to modify. This is the version to be co-sponsored and submitted by representatives in the U.S. House of Representatives.
+[TokenTaxonomyAct-HR.md](TokenTaxonomyAct-HR.md) is the file to modify. This is the version to be co-sponsored and submitted by representatives in the U.S. House of Representatives.
 
 Use the Issues tab for general discussion.
 
