@@ -7,11 +7,13 @@ The Markdown format in conjunction with the Git protocol will allow for an enhan
 
 ## How to contribute
 
+[Here](HR-7356-Token-Taxonomy-Act-of-2018.pdf) is the original bill submitted to the 115th House of Represenatives, in PDF form.
+
 [TokenTaxonomyAct-HR.md](TokenTaxonomyAct-HR.md) is the file to modify. This is the version to be co-sponsored and submitted by representatives in the U.S. House of Representatives.
 
 Use the Issues tab for general discussion.
 
-Interested parties and organizations should fork the repository and submit pull requests. Instructions on Git protocol best practices are outside the scope of this rubric, but feel free to submit a pull request to update this README as well.
+Interested parties and organizations should **fork** the repository and **submit pull requests**. Instructions on Git protocol best practices are outside the scope of this rubric, but feel free to submit a pull request to update this README as well.
 
 ## Goal
 
