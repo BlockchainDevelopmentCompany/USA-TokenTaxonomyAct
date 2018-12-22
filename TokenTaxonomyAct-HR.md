@@ -122,5 +122,45 @@ Not later than 90 days after the date of the enactment of this Act, the Commissi
 
 (b) EFFECTIVE DATE.—The amendments made by this section shall apply to sales or exchanges on or after January 1, 2017. 
 
-## SEC. 8. CERTAIN EXCHANGES OF VIRTUAL CURRENCY 
+## SEC. 8. CERTAIN EXCHANGES OF VIRTUAL CURRENCY TREATED AS NON-TAXABLE EXCHANGES. 
+
+(a) IN GENERAL.—Section 1031 of the Internal Revenue Code of 1986 is amended—
+
+(1) in the heading, by striking ‘‘REAL PROP-ERTY’’ and inserting ‘‘CERTAIN PROPERTY’’,
+
+(2) in subsection (a), by adding at the end the follow new paragraph: 
+
+```
+‘‘(4) EXCHANGE OF VIRTUAL CURRENCY.—An exchange of virtual currency (as defined under section 408(m)) shall be treated as if such exchange were an exchange of real property under this section.’’. 
+```
+(b) CLERICAL AMENDMENT.—The table of parts for `part III of subchapter O of chapter 1` of such Code is amended by striking `‘‘Exchange of real property’’` and inserting `‘‘Exchange of certain property’’`. 
+
+(c) EFFECTIVE DATE.—The amendments made by this section shall apply to exchanges made on or after January 1, 2017. 
+
+## SEC. 9. GAIN FROM SALE OR EXCHANGE OF VIRTUAL CURRENCY. 
+
+(a) IN GENERAL.—Part III of subchapter B of chapter 1 of the Internal Revenue Code of 1986 is amended by inserting after `section 139F` the following new section: 
+
+```
+‘‘SEC. 139G. GAIN FROM SALE OR EXCHANGE OF VIRTUAL CURRENCY.
+      ‘‘(a) IN GENERAL.—Gross income shall not include gain from the sale or exchange of virtual currency (as defined under section 408(m)) for other than cash or cash equivalents. 
+      ‘‘(b) LIMITATION.—
+            ‘‘(1) IN GENERAL.—The amount of gain ex-cluded from gross income under subsection (a) with respect to a sale or exchange of virtual currency shall not exceed $600. 
+            ‘‘(2) AGGREGATION RULE.—For purposes of this subsection, all sales or exchanges which are part of the same transaction (or a series of related trans-actions) shall be treated as one sale or exchange.
+      ‘‘(c) INFLATION ADJUSTMENT.—In the case of any taxable year beginning in a calendar year after 2018, the dollar amount in subsection (b) shall be increased by an amount equal to—
+            ‘‘(1) such dollar amount, multiplied by 
+            ‘‘(2) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting ‘calendar year 2017’ for ‘calendar year 2016’ in sub-paragraph (a)(ii) thereof. 
+            
+            Any increase determined under the preceding sentence shall be rounded to the nearest multiple of $50.’’. 
+```
+
+(b) CLERICAL AMENDMENT.—The table of sections for `part III of subchapter B of chapter 1` of such Code is amended by inserting after the item relating to `section 139F` the following new item:
+
+```
+‘‘Sec. 139G. Gain from sale or exchange of virtual currency.’’.
+```
+
+(c) REPORTING OF GAINS OR LOSSES.—The Secretary of the Treasury shall issue regulations providing for information returns on transactions in virtual currency (as defined under `section 408(m)` of the `Internal Revenue Code of 1986`) for which gain or loss is recognized. 
+
+(d) EFFECTIVE DATE.—The amendments made by this section shall apply with respect to transactions entered into on or after January 1, 2017.
 
