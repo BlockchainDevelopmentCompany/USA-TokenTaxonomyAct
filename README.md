@@ -17,7 +17,15 @@ Use the Issues tab for general discussion.
 
 Interested parties and organizations should **fork** the repository and **submit pull requests**. Instructions on Git protocol best practices are outside the scope of this rubric, but feel free to submit a pull request to update this README as well.
 
-Contributions should be considerd to be in Public Domain.
+* **BRANCHES** - for a different representatives version, a different industry group's version, a different subcommittees version, a different chamber's version
+  * branch name examples: 
+    * HOUSE-FSC-AMENDMENTS for amendments to the bill from the House of Representatives Financial Services Committee. Whereas optimistically, a future update will have the TokenTaxonomyAct-SENATE.md file
+    * COIN-CENTER-AMENDMENTS for amendments to the bill from the Coin Center blockchain lobbying group. 
+* **PULL REQUESTS** - to reconcile differences between branches and discuss the differences.
+
+Ideally a final TokenTaxonomyAct-HR.md file will represent the 116th (or later) House of Representatives bill, and the same process can be carried into a TokenTaxonomyAct-SENATE.md file. There is enough flexibility to reconcile all differences using this technology into a signed law.
+
+Contributions should be considered to be in Public Domain.
 
 ## Goal
 
