@@ -23,7 +23,7 @@ Interested parties and organizations should **fork** the repository and **submit
     * COIN-CENTER-AMENDMENTS for amendments to the bill from the Coin Center blockchain lobbying group. 
 * **PULL REQUESTS** - to reconcile differences between branches and discuss the differences.
 
-Ideally a final TokenTaxonomyAct-HR.md file will represent the 116th (or later) House of Representatives bill, and the same process can be carried into a TokenTaxonomyAct-SENATE.md file. There is enough flexibility to reconcile all differences using this technology into a signed law.
+Ideally a final TokenTaxonomyAct-HR.md file will represent the 116th (or later) House of Representatives bill, and the same process can be carried into a TokenTaxonomyAct-SENATE.md file. There is enough flexibility to reconcile all differences using this technology into a signed law. We can even add each agencies' rulemaking into this subsequently.
 
 Contributions should be considered to be in Public Domain.
 
