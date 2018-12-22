@@ -100,4 +100,27 @@ Not later than 90 days after the date of the enactment of this Act, the Commissi
 
 ## SEC. 7. INDIVIDUAL RETIREMENT ACCOUNT INVESTMENTS IN CERTAIN VIRTUAL CURRENCIES NOT TREATED AS DISTRIBUTIONS. 
 
+(a) IN GENERAL.—Section 408(m) of the Internal Revenue Code of 1986 is amended—
+
+(1) in paragraph (3)—
+
+(A) in the heading of the paragraph, by striking `‘‘AND BULLION’’` and inserting `‘‘, BULLION, AND VIRTUAL CURRENCIES’’`; 
+
+(B) in subparagraph `(A)(iv)`, by striking `‘‘or’’`; 
+
+(C) in subparagraph `(B)`, by inserting `‘‘or’’` after `‘‘futures contract,’’`; 
+
+(D) by inserting after subparagraph `(B)` the following: `‘‘(C) virtual currency.’’;` 
+
+(E) by striking `‘‘if such bullion’’` and inserting `‘‘This paragraph shall only apply to bullion which’’`; and 
+
+(2) by adding at the end the following: 
+
+```
+‘‘(4) VIRTUAL CURRENCY DEFINED.—For pur-poses of this subsection, the term ‘virtual currency’ means a digital representation of value that is used as a medium of exchange and is not currency (within the meaning of section 988).’’. 
+```
+
+(b) EFFECTIVE DATE.—The amendments made by this section shall apply to sales or exchanges on or after January 1, 2017. 
+
+## SEC. 8. CERTAIN EXCHANGES OF VIRTUAL CURRENCY 
 
