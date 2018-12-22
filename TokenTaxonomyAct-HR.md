@@ -1,9 +1,9 @@
-To amend the Securities Act of 1933 and the Securities Exchange Act of 1934 to exclude digital tokens from the definition of a security, to direct the Securities and Exchange Commission to enact certain regulatory changes regarding digital units secured through public key cryptog-raphy, to adjust taxation of virtual currencies held in individual retire-ment accounts, to create a tax exemption for exchanges of one virtual currency for another, to create a de minimis exemption from taxation for gains realized from the sale or exchange of virtual currency for other than cash, and for other purposes.
+To amend the `Securities Act of 1933` and the `Securities Exchange Act of 1934` to exclude digital tokens from the definition of a security, to direct the Securities and Exchange Commission to enact certain regulatory changes regarding digital units secured through public key cryptog-raphy, to adjust taxation of virtual currencies held in individual retire-ment accounts, to create a tax exemption for exchanges of one virtual currency for another, to create a de minimis exemption from taxation for gains realized from the sale or exchange of virtual currency for other than cash, and for other purposes.
 
 IN THE HOUSE OF REPRESENTATIVES Mr. DAVIDSON introduced the following bill; which was referred to the Committee on ____________________
 
-A BILL 
-To amend the Securities Act of 1933 and the Securities Exchange Act of 1934 to exclude digital tokens from the definition of a security, to direct the Securities and Exchange Commission to enact certain regulatory changes regarding digital units secured through public key cryptography, to adjust taxation of virtual currencies held in individual retirement accounts, to create a tax exemption for exchanges of one virtual currency for an-other, to create a de minimis exemption from taxation for gains realized from the sale or exchange of virtual currency for other than cash, and for other purposes.
+# A BILL 
+To amend the `Securities Act of 1933` and the `Securities Exchange Act of 1934` to exclude digital tokens from the definition of a security, to direct the Securities and Exchange Commission to enact certain regulatory changes regarding digital units secured through public key cryptography, to adjust taxation of virtual currencies held in individual retirement accounts, to create a tax exemption for exchanges of one virtual currency for an-other, to create a de minimis exemption from taxation for gains realized from the sale or exchange of virtual currency for other than cash, and for other purposes.
 
 Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled, 
 
@@ -139,7 +139,7 @@ Not later than 90 days after the date of the enactment of this Act, the Commissi
 
 ## SEC. 9. GAIN FROM SALE OR EXCHANGE OF VIRTUAL CURRENCY. 
 
-(a) IN GENERAL.—Part III of subchapter B of chapter 1 of the Internal Revenue Code of 1986 is amended by inserting after `section 139F` the following new section: 
+(a) IN GENERAL.—`Part III of subchapter B of chapter 1` of the `Internal Revenue Code of 1986` is amended by inserting after `section 139F` the following new section: 
 
 ```
 ‘‘SEC. 139G. GAIN FROM SALE OR EXCHANGE OF VIRTUAL CURRENCY.
