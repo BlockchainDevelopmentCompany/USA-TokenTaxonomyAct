@@ -40,4 +40,19 @@ a) DEFINITION OF DIGITAL TOKEN.—Section 2(a) of the Securities Act of 1933 (15
  (b) DEFINITION OF SECURITY.—Section 2(a)(1) of the Securities Act of 1933 (15 U.S.C. 77b(a)(1)) is amended—
  
  (1)	by inserting ‘‘(A)’’ after ‘‘(1)’’; and
+ 
  (2)	by adding at the end the following:
+ 
+```
+‘‘(B) Such term does not include a digital token.’’. 
+```
+ 
+ (c) EXEMPTION.—Section 4(a) of the Securities Act of 1933 (15 U.S.C. 77d(a)) is amended by adding at the end the following: 
+ 
+```
+‘‘(8) Transactions involving the development, offer, or sale of a digital unit if—
+      ‘‘(A) the person developing, offering, or selling the digital unit has a reasonable and good faith belief that such digital unit is a dig-ital token; and 
+      
+      ‘‘(B) within ninety days following a written notification from the Commission to such per-son that such digital unit has been determined by the Commission to be a security, posts pub-lic notice of such notification and takes reason-able efforts to cease all sales and return all pro-ceeds from any sales of such digital unit, ex-cluding funds reasonably spent on the develop-ment of technology associated with the digital unit.’’. 
+```
+ 
