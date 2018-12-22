@@ -27,6 +27,6 @@ Ideally a final TokenTaxonomyAct-HR.md file will represent the 116th (or later) 
 
 Contributions should be considered to be in Public Domain.
 
-## Goal
+## Goal 🏅
 
 With this tool we should be able to clearly see changes, discuss those changes in a public forum, easily follow changes amongst different subcommitties, organizations and chambers of Congress, and even see what the modified versions of existing laws will look like.
