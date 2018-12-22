@@ -21,9 +21,9 @@ a) DEFINITION OF DIGITAL TOKEN.—Section 2(a) of the Securities Act of 1933 (15
       
           ‘‘(i) in response to the verification or collection of proposed transactions; 
           
-          ‘‘(ii) pursuant to rules for the digital unit’s creation and supply that cannot be altered by a single person or group of per-sons under common control; or 
+          ‘‘(ii) pursuant to rules for the digital unit’s creation and supply that cannot be altered by a single person or group of persons under common control; or 
           
-          ‘‘(iii) as an initial allocation of digital units that will otherwise be created in ac-cordance with clause (i) or (ii); 
+          ‘‘(iii) as an initial allocation of digital units that will otherwise be created in accordance with clause (i) or (ii); 
           
       ‘‘(B) has a transaction history that—
       
@@ -51,8 +51,39 @@ a) DEFINITION OF DIGITAL TOKEN.—Section 2(a) of the Securities Act of 1933 (15
  
 ```
 ‘‘(8) Transactions involving the development, offer, or sale of a digital unit if—
-      ‘‘(A) the person developing, offering, or selling the digital unit has a reasonable and good faith belief that such digital unit is a dig-ital token; and 
+      ‘‘(A) the person developing, offering, or selling the digital unit has a reasonable and good faith belief that such digital unit is a digital token; and 
       
-      ‘‘(B) within ninety days following a written notification from the Commission to such per-son that such digital unit has been determined by the Commission to be a security, posts pub-lic notice of such notification and takes reason-able efforts to cease all sales and return all pro-ceeds from any sales of such digital unit, ex-cluding funds reasonably spent on the develop-ment of technology associated with the digital unit.’’. 
+      ‘‘(B) within ninety days following a written notification from the Commission to such per-son that such digital unit has been determined by the Commission to be a security, posts public notice of such notification and takes reasonable efforts to cease all sales and return all proceeds from any sales of such digital unit, excluding funds reasonably spent on the development of technology associated with the digital unit.’’. 
 ```
- 
+
+## SEC. 3. SECURITIES EXCHANGE ACT OF 1934. 
+
+(a) DEFINITION OF BANK.—Section 3(a)(6)(C) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a)(6)(C)) is amended—
+
+(1) by inserting `‘‘or trust company,’’` after `‘‘Home Owners’ Loan Act,’’`; and 
+
+(2) by striking `‘‘receiving deposits or exercising fiduciary powers’’` and inserting `‘‘receiving deposits providing custodial services, or exercising fiduciary powers’’`. 
+
+(b) DEFINITION OF SECURITY.—Section 3(a)(10) of, the Securities Exchange Act of 1934 (15 U.S.C. 78c(a)(10)) is amended—
+
+(1) by inserting ‘‘(A)’’ after ‘‘(1)’’; and
+
+(2) by adding at the end the following:
+
+```
+‘‘(B) Such term does not include a digital token.’’. 
+```
+
+(c) DEFINITION OF DIGITAL TOKEN.—Section 3(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a)) is amended by adding at the end the following: 
+
+```
+‘‘(82) DIGITAL TOKEN.—The term ‘digital token’ has the meaning given to it in section 2(a) of the Securities Act of 1933.’’. 
+```
+
+(d) CLERICAL AMENDMENTS.—Section 3(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a)) is amended—
+
+(1) by moving paragraph `(79)` so as to appear after paragraph `(78)`; and 
+
+(2) by redesignating the second paragraph `(80)` `(relating to ‘‘Funding portal’’)` as paragraph `(81)`. 
+
+## SEC. 4. INVESTMENT ADVISERS ACT OF 1940. 
